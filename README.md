@@ -2,7 +2,7 @@
 
 Mini Projetos da cadeira de Machine Learning de LEIC-A (Ano 2022/2023)
 
-Notas: 
+## Notas: 
 - HW1: 19.6
 - HW2: 19.5
 - HW3: 18.5
